@@ -11,6 +11,7 @@ Default_Prediction_Lending_Club_Data_Logit_Model.ipynb
 Autometic_Stock_Picking_with_Elastic_net_regularization
 
 ## Data files - 
-StockRetAcct_insample.dta (for portfolio analysis), 
+StockRetAcct_insample.dta (for portfolio analysis) <br>
+
 LendingClub_LoanStats3a_v12.dta (for default prediction)
 
